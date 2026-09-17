@@ -15,4 +15,4 @@ Un'app per disegnare divertente e colorata a tema gatto, ottimizzata per Android
 *   **Linguaggio**: Java / XML
 
 ## 📥 Download
-*   **[Scarica cat paint per android 8(https://github.com/cat-group16/cat-paint-of-android-8/releases/tag/1.1.0)**
+*   **[Scarica cat paint per android 8](https://github.com/cat-group16/cat-paint-of-android-8/releases/tag/1.1.0)**
